@@ -18,9 +18,9 @@ Here are some ideas to get you started:
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgxxrxn%2Fhit-counter&count_bg=%23FFC500&title_bg=%23000000&icon=sourcegraph.svg&icon_color=%23FCCD2F&title=hits&edge_flat=false" align="right"/>
 </div>
 
-# 도전하고 성장하는 개발자 fry 🍳
+## 도전하고 성장하는 개발자 fry 🍳
 
-## 📚 Tech Stack
+### 📚 Tech Stack
 <div align="left">
     <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/css-686de0?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
