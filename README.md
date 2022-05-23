@@ -22,16 +22,19 @@ Here are some ideas to get you started:
 
 ### 📚 Tech Stack
 <div align="left">
-    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/css-686de0?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
+    <h4>Frontend<h4>
+    <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-e34f26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
+    <img alt="CSS" src ="https://img.shields.io/badge/css-686de0.svg?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-f9ca24.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
     <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>&nbsp;
+    <h4>Backend<h4>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    
+    <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>&nbsp;
+    <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;
+    <br>
+    <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
+    <h4>Etc.<h4>
+    <!-- <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
+    <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp; -->
+    <img alt="aws" src ="https://img.shields.io/badge/aws-333664.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;
 </div>
