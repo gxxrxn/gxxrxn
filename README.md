@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;
     <br>
     <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
-    <h4>Etc.<h4>
+    <h4>etc.<h4>
     <!-- <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
     <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp; -->
     <img alt="aws" src ="https://img.shields.io/badge/aws-333664.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;
