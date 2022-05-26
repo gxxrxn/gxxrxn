@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgxxrxn%2Fhit-counter&count_bg=%23FFC500&title_bg=%23000000&icon=sourcegraph.svg&icon_color=%23FCCD2F&title=hits&edge_flat=false" align="right"/>
 </div>
 
-## 가치를 더하고 싶은 개발자, fry 🍳
+## 가치를 더하고 싶은 개발자 | fry 🍳
 
 ### 📚 Tech Stack
 <div align="left">
